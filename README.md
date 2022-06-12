@@ -13,7 +13,7 @@ https://github.com/python/peps
 
 - web
 
-https://www.python.org/dev/peps/
+https://peps.python.org/
 
 # 三、联系方式
 
@@ -26,3 +26,5 @@ https://www.python.org/dev/peps/
 
 - 微博：codists
 - twitter: [codists1](https://twitter.com/codists1)
+
+# 四、完成进度
